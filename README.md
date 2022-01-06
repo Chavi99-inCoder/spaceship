@@ -6,7 +6,7 @@ Figure 1. gives the layout of the regions of space (a rectangular grid shape), t
 The aim is to move the Spaceship from its home base through space using the various movement operations to get to the Starbase (6,4), avoiding the Asteroids.
 
 
-#Notes
+Notes
 Space is made up of regions (squares of the grid) 12 wide by 7 high.
 The regions of space are populated by 11 asteroids, each in one region of space, & located
 as shown in Figure 1 (imagin).
